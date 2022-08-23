@@ -1,2 +1,4 @@
-package org.camada4.begginer.common_syntax.barking_dog;public class BarkingDog {
+package org.camada4.begginer.common_syntax.barking_dog;
+
+public class BarkingDog {
 }

@@ -1,2 +1,4 @@
-package org.camada4.begginer.common_syntax.decimal_comparator;public class DecimalComparator {
+package org.camada4.begginer.common_syntax.decimal_comparator;
+
+public class DecimalComparator {
 }

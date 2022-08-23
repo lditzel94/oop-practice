@@ -4,14 +4,86 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9929556f-8290-4759-aaf7-077d56007af7" name="Changes" comment="" />
+    <list default="true" id="9929556f-8290-4759-aaf7-077d56007af7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/common_syntax/barking_dog/BARKING_DOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/common_syntax/barking_dog/BarkingDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/common_syntax/barking_dog/BarkingDogMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/common_syntax/decimal_comparator/DECIMAL_COMPARATOR.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/common_syntax/decimal_comparator/DecimalComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/common_syntax/decimal_comparator/DecimalComparatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/common_syntax/leap_year/LEAP_YEAR.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/common_syntax/leap_year/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/common_syntax/leap_year/LeapYearMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/control_flow_statement/number_in_word/NUMBER_IN_WORD.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/control_flow_statement/number_in_word/NumberInWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/control_flow_statement/number_in_word/NumberInWordMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/control_flow_statement/number_palindrome/NUMBER_PALINDROME.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/control_flow_statement/number_palindrome/NumberPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/control_flow_statement/number_palindrome/NumberPalindromeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/control_flow_statement/sum_odd/SUM_ODD.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/control_flow_statement/sum_odd/SumOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/control_flow_statement/sum_odd/SumOddMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/carpet_cost_calculator/CARPET_COST_CALCULATOR.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/carpet_cost_calculator/CarpetCostMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/carpet_cost_calculator/classes/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/carpet_cost_calculator/classes/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/carpet_cost_calculator/classes/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/composition/COMPOSITION.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/composition/CompositionMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/composition/classes/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/composition/classes/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/composition/classes/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/composition/classes/Lamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/composition/classes/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/encapsulation/ENCAPSULATION.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/encapsulation/EncapsulationMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/encapsulation/classes/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/polymorphism/POLYMORPHISM.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/polymorphism/PolymorphismMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/polymorphism/classes/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/polymorphism/classes/Ford.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/polymorphism/classes/Holden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/polymorphism/classes/Mitsubishi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/sum_calculator/SUM_CALCULATOR.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/sum_calculator/SumCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/sum_calculator/SumCalculatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/wall_area/WALL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/wall_area/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/camada4/begginer/oop_fundamentals/wall_area/WallAreaMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="u8jofb8d" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2DjTFKsVga5gZuYi7eOzencpFKG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,7 +92,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -31,7 +109,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661211391296</updated>
+      <workItem from="1661211392458" duration="6580000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

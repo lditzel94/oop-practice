@@ -1,2 +1,4 @@
-package org.camada4.begginer.oop_fundamentals.composition.classes;public class Lamp {
+package org.camada4.begginer.oop_fundamentals.composition.classes;
+
+public class Lamp {
 }
