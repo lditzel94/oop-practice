@@ -16,7 +16,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/Testing-DH:latest
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/testing-digital-house:latest
 
   deploy:
     name: Deploying the app
